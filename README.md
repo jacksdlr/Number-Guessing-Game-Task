@@ -1,1 +1,1 @@
-# Number-Guessing-Game-Task
+# Random number generator guessing game with users database
